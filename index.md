@@ -6,4 +6,4 @@
 
 Checkout my top 10 links every week:
 
-1. [Week 01](w01.md)
+1. [Week 01](W01/)
