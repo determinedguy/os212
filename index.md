@@ -2,7 +2,7 @@
 
 # Hello, World!
 
-## I am Muhammad Athallah. This is repository for Operating System course in 2021.
+## I am Muhammad Athallah. This is my repository for Operating System course in 2021.
 
 Checkout my top 10 links every week:
 
