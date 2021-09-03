@@ -8,6 +8,7 @@ ZCZC W00  10 L04 Set up and manage the GitHub pages
 ZCZC W00  30 L05 Prepare for Week 00 Quiz
 ZCZC W00  20 L06 Prepare the necessary references for the course, GSGS included
 ZCZC W00 120 L06 Read the materials of Week 00
+ZCZC W00  20 L10 Assignment #00
 ZCZC W00  15 L31 Install VirtualBox
 ZCZC W00  90 L70 Do Alin forum, SDA lab, PBP essay, MPPI forums
 ZCZC W00  60 L80 Watch ASMR videos
