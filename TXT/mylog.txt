@@ -3,6 +3,7 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00  15 L00 General, etc.
 ZCZC W00  40 L01 Explore SCELE and Discord server
+ZCZC W00 100 L02 Weekly lecture Zoom meeting
 ZCZC W00  20 L03 Set up and manage the GitHub and the repository
 ZCZC W00  10 L04 Set up and manage the GitHub pages
 ZCZC W00  30 L05 Prepare for Week 00 Quiz
@@ -12,3 +13,6 @@ ZCZC W00  20 L10 Assignment #00
 ZCZC W00  15 L31 Install VirtualBox
 ZCZC W00  90 L70 Do Alin forum, SDA lab, PBP essay, MPPI forums
 ZCZC W00  60 L80 Watch ASMR videos
+ZCZC W01 100 L02 Weekly lecture Zoom meeting
+ZCZC W01  60 L06 GSGS about VirtualBox, Debian, LFS
+ZCZC W01  10 L24 Try to learn about Bash, Regex, and AWK
