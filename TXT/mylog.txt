@@ -14,5 +14,13 @@ ZCZC W00  15 L31 Install VirtualBox
 ZCZC W00  90 L70 Do Alin forum, SDA lab, PBP essay, MPPI forums
 ZCZC W00  60 L80 Watch ASMR videos
 ZCZC W01 100 L02 Weekly lecture Zoom meeting
+ZCZC W01  15 L22 Quiz Week 00
 ZCZC W01  60 L06 GSGS about VirtualBox, Debian, LFS
 ZCZC W01  10 L24 Try to learn about Bash, Regex, and AWK
+ZCZC W01  15 L08 Ask AsDos about assignment #01
+ZCZC W01 300 L11 Do assignment #01
+ZCZC W01  30 L32 Learn about vim and nano text editor from YouTube
+ZCZC W01 180 L64 Help peer group to do assignment #01
+ZCZC W01  90 L70 Study about DSA (SDA)
+ZCZC W01  60 L81 Listen to VOCALOID and UTAU songs
+ZCZC W01 120 L84 Sleep and rest to charge mental energy
