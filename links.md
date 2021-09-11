@@ -4,6 +4,8 @@ permalink: /LINKS/
 
 # LINKS
 
+## Week 00
+
 1. [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8)<br>
 This is one of my video recommendations to understand the fundamental of operating systems.
 The presenter explains this technical topic into a fun and interesting one in a very short time.
@@ -22,3 +24,9 @@ This video is full of animations (no face or person shown), so this video is sui
 This article explains about Linux (and a bit review of operating system).
 The article explains about the history of Linux, the purpose of Linux as an operating system, and the benefits of using Linux.
 I think this is a great article for beginners who don't really understand Linux or who don't know anything about Linux.
+
+## Week 01
+
+5. [Nano Or Vim? Which Terminal Text Editor Should You Use?](https://www.youtube.com/watch?v=vAwo7CLWlUc)<br>
+This video is a good video for comparing between two popular terminal text editors, vim and nano.
+If you're confused to choose which one suits for your needs, this video might be a good material to help you make the decision.
