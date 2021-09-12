@@ -27,6 +27,19 @@ I think this is a great article for beginners who don't really understand Linux 
 
 ## Week 01
 
-5. [Nano Or Vim? Which Terminal Text Editor Should You Use?](https://www.youtube.com/watch?v=vAwo7CLWlUc)<br>
+1. [What is a Virtual Machine?](https://blog.stackpath.com/virtual-machine/)
+This article is a good introduction about virtualization and virtual machine, since those topics are essential for this course.
+If you don't know about them and want to learn about them, this article is a good start for you. 
+
+2. [Awk Tutorial](https://www.tutorialspoint.com/awk/index.htm)<br>
+This tutorial takes you through AWK, one of the most prominent text-processing utility on GNU/Linux.
+This tutorial covers topics about an overview of AWK, its environment, and workflow, the tutorial proceeds to explain the syntax, variables, operators, arrays, loops, and functions used in AWK.
+It also covers topics such as output redirection and pretty printing.
+
+3. [Sed and Awk 101 Hacks](https://vds-admin.ru/sed-and-awk-101-hacks)<br>
+Sed and Awk are two great utilities that can solve a lot of complex tasks quickly with only a few lines of code.
+If you're still learning about Sed and Awk, this is a great resource for you to master them.
+
+4. [Nano Or Vim? Which Terminal Text Editor Should You Use?](https://www.youtube.com/watch?v=vAwo7CLWlUc)<br>
 This video is a good video for comparing between two popular terminal text editors, vim and nano.
 If you're confused to choose which one suits for your needs, this video might be a good material to help you make the decision.

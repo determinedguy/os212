@@ -18,7 +18,15 @@ ZCZC W01  15 L22 Quiz Week 00
 ZCZC W01  60 L06 GSGS about VirtualBox, Debian, LFS
 ZCZC W01  10 L24 Try to learn about Bash, Regex, and AWK
 ZCZC W01  15 L08 Ask AsDos about assignment #01
-ZCZC W01 300 L11 Do assignment #01
+ZCZC W01  40 L11 Assignment #01 (Install prerequisites tools)
+ZCZC W01  60 L12 Assignment #01 (Download OVA, Import, and Configure)
+ZCZC W01  30 L13 Assignment #01 (GSGS, Read, Experiment)
+ZCZC W01 100 L14 Assignment #01 (Dress Up Virtual Guest)
+ZCZC W01  45 L15 Assignment #01 (SSH and Clone Repo)
+ZCZC W01  50 L16 Assignment #01 (Make LINKS page)
+ZCZC W01   5 L17 Assignment #01 (Update mylog.txt)
+ZCZC W01  45 L18 Assignment #01 (Read about bash, regex, sed, awk)
+ZCZC W01  30 L19 Assignment #01 (Read OSC10)
 ZCZC W01  30 L32 Learn about vim and nano text editor from YouTube
 ZCZC W01 180 L64 Help peer group to do assignment #01
 ZCZC W01  90 L70 Study about DSA (SDA)
