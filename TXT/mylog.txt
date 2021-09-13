@@ -32,3 +32,5 @@ ZCZC W01 180 L64 Help peer group to do assignment #01
 ZCZC W01  90 L70 Study about DSA (SDA)
 ZCZC W01  60 L81 Listen to VOCALOID and UTAU songs
 ZCZC W01 120 L84 Sleep and rest to charge mental energy
+ZCZC W01  10 L05 Prepare for Quiz Week 01
+ZCZC W02  20 L22 Quiz Week 01
