@@ -73,6 +73,6 @@ Some of attack techniques (such as malware, phishing, DDoS, and SQL injection) a
 If you like video with visual elements (such as cartoon), this video is suitable for you.
 
 4. [Cybersecurity: Crash Course Computer Science #31](https://www.youtube.com/watch?v=bPVaOlJ6ln0)<br>
-This video explains a shorter introduction about cybersecurity (prior to the previous video).
+This video explains a briefer (but longer) introduction about cybersecurity (prior to the previous video).
 This video combines visual animations with small lectures to deliver the lesson.
 If you like a briefer introduction, I recommend this video to watch.
