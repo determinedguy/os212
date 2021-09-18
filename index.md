@@ -2,4 +2,7 @@
 
 # Hello, World!
 
-## I am Athal. This is my repository for OS212 course.
+## I am Athal. This is my static website for OS212 course.
+
+You may check my top 10 rank [here](TXT/myrank.txt).<br>
+You may also check my public key [here](TXT/mypubkey.txt).<br>
