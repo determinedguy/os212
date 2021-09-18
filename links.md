@@ -66,3 +66,13 @@ A bit fun fact (if you haven't known about this); Linux is made of C language!
 This article explains about GNU Privacy Guard (GnuPG), a tool that is used to crypt files in this course.
 I'm glad I find this article as it is type in Indonesian!
 If you want to learn more about GnuPG (instead of "just" following the guide without knowing about GnuPG), this article is a good headstart for you.
+
+3. [Cyber Security In 7 Minutes | What Is Cyber Security: How It Works? | Cyber Security | Simplilearn](https://www.youtube.com/watch?v=inWWhr5tnEA)<br>
+This video explains a brief introduction about cybersecurity (a.k.a. cyber security, just a different styling).
+Some of attack techniques (such as malware, phishing, DDoS, and SQL injection) are explained here.
+If you like video with visual elements (such as cartoon), this video is suitable for you.
+
+4. [Cybersecurity: Crash Course Computer Science #31](https://www.youtube.com/watch?v=bPVaOlJ6ln0)<br>
+This video explains a shorter introduction about cybersecurity (prior to the previous video).
+This video combines visual animations with small lectures to deliver the lesson.
+If you like a briefer introduction, I recommend this video to watch.
