@@ -39,3 +39,5 @@ ZCZC W02  30 L06 GSGS about cybersecurity and GnuPG
 ZCZC W02  60 L09 Assignment Week 02 (Do technical tasks)
 ZCZC W02 180 L32 Watch cybersecurity videos
 ZCZC W02  60 L26 Practice C language by doing week 02 demo
+ZCZC W02  30 L64 Help friends to solve git problems
+ZCZC W02  30 L06 Read books and references to prepare for Quiz Week 02
