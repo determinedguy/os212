@@ -41,3 +41,8 @@ ZCZC W02 180 L32 Watch cybersecurity videos
 ZCZC W02  60 L26 Practice C language by doing week 02 demo
 ZCZC W02  30 L64 Help friends to solve git problems
 ZCZC W02  30 L06 Read books and references to prepare for Quiz Week 02
+ZCZC W03 100 L02 Weekly lecture Zoom meeting 
+ZCZC W03   5 L04 Assignment Week 03 (Make sure .bash_aliases is up to date)
+ZCZC W03  30 L05 Assignment Week 03 (Setup Virtual Disk, Mount, and Change Ownership)
+ZCZC W08  10 L08 Assignment Week 03 (Update mylog.txt)
+ZCZC W08  10 L09 Assignment Week 03 (Submit Assignment Week 03 with myW03.tar.bz2.asc)
