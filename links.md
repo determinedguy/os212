@@ -76,3 +76,26 @@ If you like video with visual elements (such as cartoon), this video is suitable
 This video explains a briefer (but longer) introduction about cybersecurity (prior to the previous video).
 This video combines visual animations with small lectures to deliver the lesson.
 If you like a briefer introduction, I recommend this video to watch.
+
+## Week 03
+
+1. [FUSE - The Linux Kernel](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
+This article is a good starter to understand FUSE, the Linux filesystem.
+The article explains the important definitions and commands well to understand FUSE.
+There are also some explanation on the kernel side.
+This is a good comprehensed article, I recommend this if you have some basics of Linux and filesystem.
+
+2. [Tutorial FUSE pada Linux](https://www.youtube.com/watch?v=Utkwg9Mwtsg)<br>
+This video is a good tutorial if you need practice on understanding FUSE.
+I think this video is a good guidance since we are supposed to practice the demos by our own.
+Since this video is explained in Indonesian, I highly recommend this video if you have desire to fully understand about FUSE.
+
+3. [Linux File Hierarchy Structure - GeeksforGeeks](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)<br>
+This article explains about Linux file hierarchy structure comprehensively.
+The folders in Linux root drive is explained thoroughly by its functions.
+If you want to learn about Linux FHS by reading text, this article has it all.
+
+4. [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
+This video explains about Filesystem Hierarchy Standard (FHS) briefly.
+Even though this video is only 100 seconds, it is still explaining most of all about FHS.
+If you are lazy to read and have no spare time to spend, this express video is a good introduction for you.
