@@ -53,3 +53,8 @@ ZCZC W03  15 L13 Assignment Week 03 (Try midterm problems)
 ZCZC W03  45 L16 Assignment Week 03 (Update links)
 ZCZC W03  20 L17 Assignment Week 03 (Review peer links)
 ZCZC W03  90 L64 Help friends related to assignment week 03
+ZCZC W04 100 L02 Weekly lecture Zoom meeting
+ZCZC W04  15 L14 Assignment Week 04 (Install Package List 2 (TLPI))
+ZCZC W04  30 L15 Assignment Week 04 (Do things with "WEEK04.tar.bz2.asc")
+ZCZC W04   5 L18 Assignment Week 04 (Update mylog.txt)
+ZCZC W04   5 L19 Assignment Week 04 (Submit assignment)
