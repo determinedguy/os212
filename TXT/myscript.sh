@@ -1,10 +1,11 @@
 #!/bin/bash
+# REV02 Tue 28 Sep 2021 19:12:05 WIB
 # REV01 Wed 22 Sep 2021 17:34:10 WIB
 # START Thu 16 Sep 2021 13:13:20 WIB
 
 REC2="mhd.athallah@gmail.com"
 REC1="operatingsystems@vlsm.org"
-FILES="my*.txt my*.sh"
+FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
 
 [ -d $HOME/RESULT/ ] || mkdir -p $HOME/RESULT/
