@@ -99,3 +99,26 @@ If you want to learn about Linux FHS by reading text, this article has it all.
 This video explains about Filesystem Hierarchy Standard (FHS) briefly.
 Even though this video is only 100 seconds, it is still explaining most of all about FHS.
 If you are lazy to read and have no spare time to spend, this express video is a good introduction for you.
+
+## Week 04
+
+1. [Linux Basics: Static Libraries vs. Dynamic Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)<br>
+This article explains a good explanation about how static and dynamic libraries works in Linux.
+"You came to the right place if you’re wondering how static and dynamic libraries work in C programs," the writer writes.
+The article even has some video resources as a supplement for you.
+I recommend this article if you want to understand deeply about libraries in Linux and C (since, you know, Linux is made of C language).
+<br>
+P.S. I kinda hate Medium as it limits us as a non-member to read articles in a restricted amount.
+
+2. [What is memory mapping in Linux?](https://ostoday.org/linux/what-is-memory-mapping-in-linux.html)<br>
+This article explains a brief yet comprehensive explanation about memory mapping in Linux.
+Memory mapping is one of the most interesting features of a Unix system, so I highly recommend you to push your limits on learning memory mapping.
+This article even has videos to explain the concept behind memory mapping and nmap program in Linux.
+I dare you to read this article, hehe.
+
+3. [Pointers in C++](https://personal.utdallas.edu/~rkm010300/utd/cs3376/ppt/ch09.pdf)<br>
+Even though this slide presentation is intended for C++, I think it is still providing a good basic for understanding pointers in C.
+C++ is a programming language which is an extension of the C programming language; that is why most of concepts of C++ is still appicable for C, even though it might have different syntax.
+This slide has a comprehensive explanation about pointers.
+It even has some basic visualization to help you out!
+I highly recommend this slide if you want to comprehend the basics of pointer in C.

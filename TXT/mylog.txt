@@ -58,3 +58,7 @@ ZCZC W04  15 L14 Assignment Week 04 (Install Package List 2 (TLPI))
 ZCZC W04  30 L15 Assignment Week 04 (Do things with "WEEK04.tar.bz2.asc")
 ZCZC W04   5 L18 Assignment Week 04 (Update mylog.txt)
 ZCZC W04   5 L19 Assignment Week 04 (Submit assignment)
+ZCZC W04  30 L16 Assignment Week 04 (Update LINKS)
+ZCZC W04  30 L17 Assignment Week 04 (Peer links)
+ZCZC W04  15 L18 Assignment Week 04 (Update mylog.txt) 
+ZCZC W04 120 L64 Help friends related to assignment week 04
