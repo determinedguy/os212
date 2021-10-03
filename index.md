@@ -1,4 +1,4 @@
-[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [Github Repository](https://github.com/determinedguy/os212/)
+[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [TIPS](TIPS/) |  [Github Repository](https://github.com/determinedguy/os212/)
 
 # Hello, World!
 

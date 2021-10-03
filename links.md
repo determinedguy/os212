@@ -60,6 +60,7 @@ If you're using nano text editor like me, this video is definitely useful for yo
 This presentation explain technical fundamentals of C language.
 Even though we learned Java and Java is closely similar in syntax, we still need to learn about C language to understand this course better.
 If you want to understand well about fundamentals of C, I recommend this presentation as your first step of entering the world of C.
+<br>
 A bit fun fact (if you haven't known about this); Linux is made of C language!
 
 2. [GNU Privacy Guard](https://lms.onnocenter.or.id/wiki/index.php/GNU_Privacy_Guard)<br>
