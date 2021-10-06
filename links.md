@@ -123,3 +123,27 @@ C++ is a programming language which is an extension of the C programming languag
 This slide has a comprehensive explanation about pointers.
 It even has some basic visualization to help you out!
 I highly recommend this slide if you want to comprehend the basics of pointer in C.
+
+## Week 05
+
+1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+This article describes the concept of virtual memory in the context of operating system.
+It also has some pictures to visualize the concept of how virtual memory works in operating system.
+I recommend this article as a headstart to understand about virtual memory.
+
+2. [What Is Caching and How It Works | Fortinet](https://www.fortinet.com/resources/cyberglossary/what-is-caching)<br>
+"What is caching? and "how does a cache work?" are common questions in computing.
+This article gives you a brief explanation about cache and how does a cache work.
+Even though this article is oriented to web caching, the concept is still applicable generally to anything related to caching.
+Since we are studying about platform-based programming at the same time, this article might be helpful for you. 
+
+3. [Memory Allocation](https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)<br>
+This college course material explains about memory allocation briefly.
+But, hey, it uses C as the intermediate language!
+It also has some visualization about how memory allocation and (yes, it is) pointer works.
+I highly recommend this article as a headstart to understand about the concept of memory allocation.
+
+4. [Thrashing and Working Sets](https://web.stanford.edu/~ouster/cgi-bin/cs140-winter12/lecture.php?topic=thrashing)<br>
+This Stanford's lecture notes gives important points about thrashing in the context of memory.
+I think this note is very useful, especially when you want to prepare for the weekly quiz.
+Although this has no explicit answer typed on the same page, I find this note useful for me.

@@ -62,3 +62,13 @@ ZCZC W04  30 L16 Assignment Week 04 (Update LINKS)
 ZCZC W04  30 L17 Assignment Week 04 (Peer links)
 ZCZC W04  15 L18 Assignment Week 04 (Update mylog.txt) 
 ZCZC W04 120 L64 Help friends related to assignment week 04
+ZCZC W05 100 L02 Weekly lecture Zoom meeting
+ZCZC W05  60 L11 Assignment Week 05 (Read OSC10 Chapter 10)
+ZCZC W05  15 L12 Assignment Week 05 (Try demo)
+ZCZC W05  45 L13 Assignment Week 05 (Try previous midterm problem)
+ZCZC W05  60 L14 Assignment Week 05 (LOW-MEMORY things)
+ZCZC W05  60 L15 Assignment Week 05 (Update links)
+ZCZC W05  10 L16 Assignment Week 05 (Add tips)
+ZCZC W05  30 L17 Assignment Week 05 (Review peer links)
+ZCZC W05  15 L18 Assignment Week 05 (Update mylog.txt)
+ZCZC W05  10 L19 Assignment Week 05 (Submit assignment)
