@@ -72,3 +72,4 @@ ZCZC W05  10 L16 Assignment Week 05 (Add tips)
 ZCZC W05  30 L17 Assignment Week 05 (Review peer links)
 ZCZC W05  15 L18 Assignment Week 05 (Update mylog.txt)
 ZCZC W05  10 L19 Assignment Week 05 (Submit assignment)
+ZCZC W05 150 L64 Help friends related to assignment week 05

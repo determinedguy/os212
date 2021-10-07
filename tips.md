@@ -22,11 +22,11 @@ I promise it's not that different; but still, just try to learn it a bit if you 
 4. **BE PUNCTUAL!**<br>
 No, I'm not kidding this time.<br>
 Make sure you're keeping yourself updated with informations and forums.<br>
-(And yes, do it **manually**; don't even think to make a refresher and fetcher for this case.)<br>
-Please be punctual if you don't want to cry while having an exciting journey in this course.
+(And yes, do it **manually**; don't even think to make a program to refresh and fetch the forums for this case.)<br>
+Be punctual if you don't want to cry while hoping to have an exciting journey in this course.
 
 5. **Improve your Googling skills.**<br>
-In this course, you will learn the "**GSGS**" term (stands for Google Sana, Google Sini).<br>
+In this course, you will learn the "**GSGS**" term (stands for "**Google Sana, Google Sini**").<br>
 Please improve your Googling skill if you want to ace in your assignments and quizzes.<br>
-Yes, asking your teaching assistants is a magnificent solution, but oh boy, you'll be pushed to be independent in this course.<br>
-Please do this tips if you want to ace this course.
+Yes, asking your teaching assistants is a magnificent solution, but (oh boy!) you'll be pushed to be independent in this course.<br>
+Do this tips if you want to ace this course.
