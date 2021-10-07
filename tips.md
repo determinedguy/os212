@@ -30,3 +30,8 @@ In this course, you will learn the "**GSGS**" term (stands for "**Google Sana, G
 Please improve your Googling skill if you want to ace in your assignments and quizzes.<br>
 Yes, asking your teaching assistants is a magnificent solution, but (oh boy!) you'll be pushed to be independent in this course.<br>
 Do this tips if you want to ace this course.
+
+6. **Get your hands _dirty_.**
+Do DEMOS if you really want to take benefits of learning operating system.<br>
+Most of students don't understand the purpose of this course (and complain, in some cases), yet they never practice the demos.<br>
+Just do not forget to **backup** just in case you might screw up your setup.

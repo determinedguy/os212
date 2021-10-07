@@ -109,7 +109,7 @@ This article explains a good explanation about how static and dynamic libraries 
 The article even has some video resources as a supplement for you.
 I recommend this article if you want to understand deeply about libraries in Linux and C (since, you know, Linux is made of C language).
 <br>
-P.S. I kinda hate Medium as it limits us as a non-member to read articles in a restricted amount.
+P.S. I kind of hate Medium as it limits us as a non-member to read articles in a restricted amount.
 
 2. [What is memory mapping in Linux?](https://ostoday.org/linux/what-is-memory-mapping-in-linux.html)<br>
 This article explains a brief yet comprehensive explanation about memory mapping in Linux.
