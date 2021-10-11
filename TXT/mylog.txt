@@ -73,3 +73,8 @@ ZCZC W05  30 L17 Assignment Week 05 (Review peer links)
 ZCZC W05  15 L18 Assignment Week 05 (Update mylog.txt)
 ZCZC W05  10 L19 Assignment Week 05 (Submit assignment)
 ZCZC W05 150 L64 Help friends related to assignment week 05
+ZCZC W06 100 L02 Weekly lecture Zoom meeting
+ZCZC W06  45 L14 Assignment Week 06 (Fork() and Shared Memory)
+ZCZC W06  15 L17 Assignment Week 06 (Review peer links)
+ZCZC W06  10 L18 Assignment Week 06 (Update mylog.txt)
+ZCZC W06  10 L19 Assignment Week 06 (Submit assignment)
