@@ -147,3 +147,21 @@ I highly recommend this article as a headstart to understand about the concept o
 This Stanford's lecture notes gives important points about thrashing in the context of memory.
 I think this note is very useful, especially when you want to prepare for the weekly quiz.
 Although this has no explicit answer typed on the same page, I find this note useful for me.
+
+## Week 06
+
+1. [Processes and Threads (Concurrency Basics)](https://www.youtube.com/watch?v=Wv7mzX8w3jI)<br>
+This video explains about the differences between processes and threads, and concurrency vs parallelism.
+This quick video uses some visualizations to explains the basics of multi-threading programming.
+I recommend this video as a headstart for you to learn about the basics of concurrency and multi-threading programming.
+
+2. [Multithreading and Concurrency Fundamentals](https://www.educative.io/blog/multithreading-and-concurrency-fundamentals)<br>
+This article explains about concurrency and multi-threading programming briefly.
+If you prefer reading article over watching video, this article suits for you.
+I recommend this article as an alternative headstart as it keeps its explanation clean :)
+
+3. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
+This website... is somewhat unique ;)
+This website is basically a collection of notes for operating system course.
+It has technical explanations and rich visualization while describing concurrency thoroughly.
+I definitely recommend this "notes" if you really want to enhance your knowledge about concurrency.
