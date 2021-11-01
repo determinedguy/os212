@@ -86,3 +86,8 @@ ZCZC W06 240 L64 Help friends related to assignment week 06
 ZCZC W06  15 L24 Make script for extracting and viewing grades from TARBALL
 ZCZC w06 120 L64 Help friends related to operating system stuff
 ZCZC W06  60 L24 Make enhanced script for viewing grades from TARBALL
+ZCZC W07  15 L05 Prepare for Week 06 Quiz
+ZCZC W07  45 L15 Assignment Week 07 (Update LINKS)
+ZCZC W07  10 L16 Assignment Week 07 (Recheck tips)
+ZCZC W07  45 L17 Assignment Week 07 (Peer links review)
+ZCZC W07   5 L18 Assignment Week 07 (Update mylog.txt)

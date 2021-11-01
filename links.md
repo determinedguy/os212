@@ -182,7 +182,7 @@ If you like visualization more than texts, I recommend this website as a compani
 
 2. [Process Synchronization & Deadlock](https://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)<br>
 This short note explains about process synchronization and deadlock briefly.
-It contains short... summary about the concepts; thus called a "general note". ;)
+It contains short... summary about the concepts; thus called a "general note" ;).
 If you're in a hurry to understand those concepts, I highly recommend this website.
 
 3. [Reading 23: Locks and Synchronization](https://web.mit.edu/6.005/www/fa15/classes/23-locks/)<br>
