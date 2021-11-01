@@ -165,3 +165,27 @@ This website... is somewhat unique ;)
 This website is basically a collection of notes for operating system course.
 It has technical explanations and rich visualization while describing concurrency thoroughly.
 I definitely recommend this "notes" if you really want to enhance your knowledge about concurrency.
+
+4. [Fork() in C Programming Language | Engineering Education (EngEd) Program](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+This article helps me a lot to understand the concept of fork().
+In addition, I use this as a guidance while doing some demos in Week 06.
+I highly recommend this article to those who don't understand the basics of fork().
+
+## Week 07
+
+1. [Process Synchronisation and Deadlocks](https://computing.dcu.ie/~humphrys/Notes/OS/synch.html)<br>
+This website... has an old-school style.
+But it doesn't keep itself from giving useful informations! ;)<br>
+Even though it has a little amount of text explanations, but it has useful visualizations to explain the concepts of process synchronisation and deadlocks!
+There are some excerpt C codes to give practical examples of them.
+If you like visualization more than texts, I recommend this website as a companion to the materials.
+
+2. [Process Synchronization & Deadlock](https://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)<br>
+This short note explains about process synchronization and deadlock briefly.
+It contains short... summary about the concepts; thus called a "general note". ;)
+If you're in a hurry to understand those concepts, I highly recommend this website.
+
+3. [Reading 23: Locks and Synchronization](https://web.mit.edu/6.005/www/fa15/classes/23-locks/)<br>
+This study material has an extensive explanation about locks and synchronization.
+There are a lot visualizations and code excerpts to make the study more practical.
+By not forgetting that this is a study material from Massachusetts Institute of Technology (MIT), I totally recommend this study material if you want to master the concepts needed for this week.
