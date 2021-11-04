@@ -35,3 +35,8 @@ Do this tips if you want to ace this course.
 Do DEMOS if you really want to take benefits of learning operating system.<br>
 Most of students don't understand the purpose of this course (and complain, in some cases), yet they never practice the demos.<br>
 Just do not forget to **backup** just in case you might screw up your setup.
+
+7. **Try to make scripts by your own.**<br>
+I promise this will benefit you so much, since it can internalize your knowledge in this course.<br>
+Try to make scripts to ease your jobs while doing or checking assignments.<br>
+For example, I made [OS Tarball Checker](https://github.com/determinedguy/os-tarball-checker) to check weekly grades automatically.
