@@ -96,3 +96,4 @@ ZCZC W07  60 L12 Assignment Week 07 (Try demos)
 ZCZC W07  30 L13 Assignment Week 07 (Try previous midterm problems)
 ZCZC W07  45 L14 Assignment Week 07 (Synchronization and Shared Memory)
 ZCZC W07  15 L19 Assignment Week 07 (Submit assignment)
+ZCZC W07 180 L64 Help friends related to assignment week 07
