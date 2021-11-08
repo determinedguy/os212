@@ -189,3 +189,22 @@ If you're in a hurry to understand those concepts, I highly recommend this websi
 This study material has an extensive explanation about locks and synchronization.
 There are a lot visualizations and code excerpts to make the study more practical.
 By not forgetting that this is a study material from Massachusetts Institute of Technology (MIT), I totally recommend this study material if you want to master the concepts needed for this week.
+
+## Week 08
+
+1. [Linux From Scratch - Wikipedia bahasa Indonesia, ensiklopedia bebas](https://id.wikipedia.org/wiki/Linux_From_Scratch)<br>
+This is a good introduction to understand the concept of Linux From Scratch in Indonesian.
+I couldn't find any better materials in Indonesian to explain the basic concepts of Linux From Scratch.
+I think this might give you a big picture to understand the essentials of Linux From Scratch.<br>
+
+> I'll start shortening Linux From Scratch as LFS; starting now.
+
+2. [Linux From Scratch - Version 11.0](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
+This is the official guidance to make the latest version of LFS (current latest release is 1st September 2021, when this links resource is written).
+As Mr. Rahmat says, please expect downtime as a "normal" situation happened in this website.
+Please understand and comprehend this guide thoroughly to get the best output.
+
+3. [How to compile Linux From Scratch 11.0 on an Apple iMac](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)<br>
+This is one of the resources given by Mr. Rahmat in this course to construct and make LFS.
+I think this playlist is the best and latest playlist as an audiovisual guidance if you're inexperienced to compile programs and do the guidance without any helps.
+I know there are a lot of noobs out there, so please use this playlist as the best audiovisual guidance to finish the final assignment of this course.
