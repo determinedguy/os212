@@ -208,3 +208,21 @@ Please understand and comprehend this guide thoroughly to get the best output.
 This is one of the resources given by Mr. Rahmat in this course to construct and make LFS.
 I think this playlist is the best and latest playlist as an audiovisual guidance if you're inexperienced to compile programs and do the guidance without any helps.
 I know there are a lot of noobs out there, so please use this playlist as the best audiovisual guidance to finish the final assignment of this course.
+
+## Week 09
+
+1. [What is RAID 5?](https://rayday.me/comweb/internet/Commodore/commodore/www.commodore.ca/windows/raid5/raid5.htm)<br>
+This is the backup copy of the website mentioned on the course's slide material.
+Even though the UI is kinda unpleasant, the information and visualization are very helpful to help you to understand about RAID 5.
+I recommend this website as a headstart to understand about RAID 5.
+
+2. [RAID level 0, 1, 5, 6 and 10 | Advantage, disadvantage, use](https://www.prepressure.com/library/technology/raid)<br>
+This is a comprehensive article about RAID.
+It has an extensive information about RAID 0, 1, 5, 6, and 10.
+There are some visualization, too, to help you to comprehend the materials better.
+I recommend this article as a headstart to understand the basics of RAID.
+
+3. [Mengenal Komponen Server: Tipe RAID dan Tingkatannya](https://mebiso.com/mengenal-komponen-server-tipe-raid-dan-tingkatannya/)<br>
+This is a good introductory aricle about RAID, too.
+It is written in Indonesian, so I think this is more helpful to the one who don't really understand English materials.
+I recommend this as a supplement to comprehend about the basics of RAID.

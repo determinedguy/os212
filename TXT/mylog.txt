@@ -97,6 +97,7 @@ ZCZC W07  30 L13 Assignment Week 07 (Try previous midterm problems)
 ZCZC W07  45 L14 Assignment Week 07 (Synchronization and Shared Memory)
 ZCZC W07  15 L19 Assignment Week 07 (Submit assignment)
 ZCZC W07 180 L64 Help friends related to assignment week 07
+ZCZC W08 100 L02 Weekly lecture Zoom meeting
 ZCZC W08  30 L11 Assignment Week 08 (Read OSC10 Chapter 5)
 ZCZC W08  15 L12 Assignment Week 08 (Try demos)
 ZCZC W08  60 L13 Assignment Week 08 (Try previous midterm problems)
@@ -107,3 +108,13 @@ ZCZC W08   5 L19 Assignment Week 08 (Update log)
 ZCZC W08  15 L09 Assignment Week 08 (Submit assignment)
 ZCZC W08  30 L16 Assignment Week 08 (Update LINKS)
 ZCZC W08 600 L64 Help friends related to assignment week 08
+ZCZC W09 100 L02 Weekly lecture Zoom meeting
+ZCZC W09  60 L11 Assignment Week 09 (Read OSC10 Chapter 11)
+ZCZC W09  15 L12 Assignment Week 09 (Try demos)
+ZCZC W09  90 L13 Assignment Week 09 (Try previous midterm problems)
+ZCZC W09 480 L14 Assignment Week 09 (LFS part 2, prior chapter 8)
+ZCZC W09 960 L14 Assignment Week 09 (LFS part 2, chapter 8)
+ZCZC W09  45 L15 Assignment Week 09 (Update LINKS)
+ZCZC W09  30 L17 Assignment Week 09 (Peer links review)
+ZCZC W09  15 L18 Assignment Week 09 (Update log)
+ZCZC W09   5 L19 Assignment Week 09 (Submit assignment)
