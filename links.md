@@ -226,3 +226,22 @@ I recommend this article as a headstart to understand the basics of RAID.
 This is a good introductory aricle about RAID, too.
 It is written in Indonesian, so I think this is more helpful to the one who don't really understand English materials.
 I recommend this as a supplement to comprehend about the basics of RAID.
+
+## Week 10
+
+> The last week! Whoa.
+
+1. [I/O Systems](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html)<br>
+This is a brief, yet simple "course note" about the concepts of I/O systems in operating system.
+There are some simple visualizations used to elaborate the concept further.
+I recommend this article if you want to comprehend I/O system fast.
+
+2. [Principles of I/O Software](https://gcallah.github.io/OperatingSystems/IOSoftware.html)<br>
+This is a "brief note" about the principles of I/O software in operating system.
+There are a few visualization to make things more comprehensible.
+I recommend this note as a supplementary material to the previous one.
+
+3. [Platform Controller Hub](https://en-academic.com/dic.nsf/enwiki/10169522)<br>
+This is an online academic encyclopedia which explains the Platform Controller Hub (PHC).
+There are some informations about its history and vast variety of PHC.
+I recommend this webpage to be read if you are interested to learn a bit about PHC.
